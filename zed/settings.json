@@ -5,8 +5,8 @@
   "icon_theme": "Bearded Icon Theme",
   "theme": {
     "mode": "system",
-    "light": "GitHub Dark Default",
-    "dark": "GitHub Dark Default"
+    "light": "Tokyo Night",
+    "dark": "Tokyo Night"
   },
   "ui_font_size": 16,
   "scrollbar": {
